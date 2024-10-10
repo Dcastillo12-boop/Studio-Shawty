@@ -9,7 +9,7 @@ body {
     height: 300vh;
     margin: 0;
     background-color: white;
-    overflow: auto;
+    scroll-behavior: smooth;
 }
 
 header {
